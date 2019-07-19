@@ -1,0 +1,15 @@
+Package: WCode
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: as.person(c(
+	"Matthew Villanueva <miv5219@uncw.edu> [aut, cre]",
+	"Yishi Wang <wangy@uncw.edu> [aut]",
+	"Ann Stapleton <stapletona@uncw.edu> [aut]"
+  ))
+Description:     What the package does (one paragraph).
+Depends: R (>= 3.5.0)
+License: CC0
+Imports: magrittr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
